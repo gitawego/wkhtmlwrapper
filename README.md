@@ -4,7 +4,7 @@ a wrapper for tool [Wkhtml][wkhtml]
 
 Usage:
 ```
-var wkhtml = new Wkhtml({
+var wkhtml = new require('Wkhtml')({
     options:{
         "margin-top":0,
         "margin-bottom":25,
