@@ -16,7 +16,7 @@ var wkhtml = new require('Wkhtml')({
         "orientation":"Landscape"
     },
     type:"pdf",
-    binaryPath:"/var/www/SITES/pdf/"
+    binaryPath:"/usr/bin/"
 });
 
 wkhtml.add({
