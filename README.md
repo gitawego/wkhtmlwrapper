@@ -1,6 +1,7 @@
 wkhtmlwrapper
 =============
 a wrapper for tool [Wkhtml][wkhtml] in NodeJs
+
 binary wkhtmlpdf or wkhtmlimage is required
 
 Usage:
